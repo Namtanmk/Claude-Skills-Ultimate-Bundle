@@ -1,3 +1,4 @@
+
 ---
 name: cross-sell-strategy
 description: "Maps cross-sell opportunities with product pairing logic, timing triggers, and messaging templates. Use when you want to increase revenue from existing customers."
